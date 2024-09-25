@@ -28,7 +28,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
 
 ## whois :
-![Uploading 5647e44c-d499-4c85-9999-769099705275.jpg…]()
+![5647e44c-d499-4c85-9999-769099705275](https://github.com/user-attachments/assets/3feedb54-bc45-4d66-99dc-18e1ae461769)
+
 ![ffb813d4-8092-44ef-a0dd-386b0f5b5239](https://github.com/user-attachments/assets/69ca50ec-b5bb-422a-a8ac-607fa408f845)
 
 
